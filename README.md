@@ -1,16 +1,13 @@
-## Hi there 👋
+### Senior Firmware Engineer | Edge AI & IoT Specialist
 
-<!--
-**iot2edge/iot2edge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about ARM-based development with expertise in platforms like Qualcomm, NXP, and Rockchip.
 
-Here are some ideas to get you started:
+🔧 Skilled in crafting AI-driven IoT devices using NVIDIA Jetson, CUDA, TensorRT, and Coral TPU for advanced edge applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Strong background in connectivity solutions including BLE, LoRa, LTE, NB-IoT, and Ethernet.
+
+🔑 Proficient in C/C++, Python, Rust, and utilizing version control with Git for efficient, collaborative development.
+
+🔍 Experienced in TinyML, Raspberry Pi, Zephyr, FreeRTOS, and robust testing methodologies with Python and Renode.
+
+Let's push boundaries in firmware engineering! 🚀
