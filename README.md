@@ -2,7 +2,7 @@
 
 👨‍💻 Passionate about ESP32 development and edge computing, with in-depth expertise across the ESP32 ecosystem, including ESP32-S3, C3, C6, and H2.
 
-🔧 Skilled in developing AI-driven IoT solutions using ESP32 with platforms like **ESP-WHO**, **ESP-ADF**, and **TinyML**. Proficient in integrating with frameworks like **Edge Impulse** and **AWS FreeRTOS** for advanced edge applications.
+🔧 Skilled in developing AI-driven IoT solutions using ESP32 with platforms like **ESP-WHO**, **ESP-ADF**, **ESP-HOME** and **TinyML**. Proficient in integrating with frameworks like **Edge Impulse** and **AWS FreeRTOS** for advanced edge applications.
 
 🔗 Comprehensive experience with ESP32 connectivity solutions: **ESP-MESH**, **ESP-NOW**, BLE, MQTT, RESTful APIs, LoRa, and Rainmaker. Adept in secure firmware development, including **flash encryption**, OTA updates, and ESP32-based **reverse engineering**.
 
